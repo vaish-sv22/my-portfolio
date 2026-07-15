@@ -124,21 +124,6 @@ A simple contact form created using HTML form elements.
 
 ---
 
-## 📸 Screenshots
-
-You can add screenshots of your portfolio here.
-
-Example:
-
-```
-screenshots/
-│── homepage.png
-│── projects.png
-│── contact.png
-```
-
----
-
 ## ⭐ Thank You
 
 Thank you for visiting my portfolio repository.
